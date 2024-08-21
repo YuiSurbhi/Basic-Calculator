@@ -1,3 +1,4 @@
+print("~~~~~~Welcome to the Basic Calculator~~~~~~")
 print("Select the operation to perform : ");
 print("1. Add");
 print("2. Subtract");
